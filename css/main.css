@@ -1,0 +1,12 @@
+button.knopka {
+	color: #fff; 
+    /*background:#48bf72; */
+    background:green;     
+	padding: 15px 215px 15px 215px; 
+	border-radius: 3px;
+	border: 2px;
+}
+.center { 
+    text-align: center; 
+  }
+ 
